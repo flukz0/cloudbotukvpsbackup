@@ -1,0 +1,186 @@
+{
+  "31": {
+    "suspendAt": 1792935362302,
+    "isSuspended": false
+  },
+  "41": {
+    "serverId": 41,
+    "serverName": "Vortex SMP",
+    "suspendAt": 1791177008826,
+    "hoursSet": 720,
+    "isSuspended": false,
+    "plan": "paid"
+  },
+  "45": {
+    "serverId": 45,
+    "serverName": "Ronaksharma",
+    "suspendAt": 1789269337795,
+    "hoursSet": 168,
+    "isSuspended": false,
+    "plan": "free"
+  },
+  "54": {
+    "serverId": 54,
+    "serverName": "insane free plan",
+    "suspendAt": 1789883688808,
+    "hoursSet": 168,
+    "isSuspended": true,
+    "plan": "free"
+  },
+  "56": {
+    "serverId": 56,
+    "serverName": "bunny-promotion",
+    "suspendAt": 1791460483480,
+    "hoursSet": 720,
+    "isSuspended": false,
+    "plan": "paid"
+  },
+  "57": {
+    "serverId": 57,
+    "serverName": "mk-promotion",
+    "suspendAt": 1789473679693,
+    "hoursSet": 168,
+    "isSuspended": true,
+    "plan": "free"
+  },
+  "58": {
+    "serverId": 58,
+    "serverName": "flexxy-promotion",
+    "suspendAt": 1789473748462,
+    "hoursSet": 168,
+    "isSuspended": true,
+    "plan": "free"
+  },
+  "59": {
+    "serverId": 59,
+    "serverName": "Hamza-Invite-5",
+    "suspendAt": 1789218467625,
+    "hoursSet": 96,
+    "isSuspended": true,
+    "plan": "free"
+  },
+  "62": {
+    "serverId": 62,
+    "serverName": "testforservrrupdste",
+    "suspendAt": 1789490378516,
+    "hoursSet": 168,
+    "isSuspended": true,
+    "plan": "free"
+  },
+  "77": {
+    "serverId": 77,
+    "serverName": "deadly server",
+    "suspendAt": 1791212889025,
+    "isSuspended": false
+  },
+  "79": {
+    "serverId": 79,
+    "serverName": "4 invites | by Anshu CEO",
+    "suspendAt": 1790097206530,
+    "isSuspended": true
+  },
+  "83": {
+    "serverId": 83,
+    "serverName": "10 invite plan",
+    "suspendAt": 1790245599722,
+    "isSuspended": true
+  },
+  "84": {
+    "serverId": 84,
+    "serverName": "unfilter bhai server",
+    "suspendAt": 1792307685422,
+    "isSuspended": false
+  },
+  "85": {
+    "serverId": 85,
+    "serverName": "platonic dwarf plan",
+    "suspendAt": 1792313360900,
+    "isSuspended": false
+  },
+  "87": {
+    "serverId": 87,
+    "serverName": "nemo booster plan 1",
+    "suspendAt": 1792340486672,
+    "isSuspended": false
+  },
+  "93": {
+    "serverId": 93,
+    "serverName": "staff privet smp",
+    "suspendAt": 1792805587202,
+    "isSuspended": false
+  },
+  "94": {
+    "serverId": 94,
+    "serverName": "8 invite plan",
+    "suspendAt": 1790941397657,
+    "isSuspended": false
+  },
+  "96": {
+    "serverId": 96,
+    "serverName": "khud rakh lena ahem(:",
+    "suspendAt": 1791023365096,
+    "isSuspended": false
+  },
+  "98": {
+    "serverId": 98,
+    "serverName": "8 invite plan fleming master",
+    "suspendAt": 1791104959592,
+    "isSuspended": false
+  },
+  "99": {
+    "serverId": 99,
+    "serverName": "invite plan - ItzVenge4r",
+    "suspendAt": 1791119959489,
+    "isSuspended": false
+  },
+  "100": {
+    "serverId": 100,
+    "serverName": "10 invites",
+    "suspendAt": 1791209282766,
+    "isSuspended": false
+  },
+  "101": {
+    "serverId": 101,
+    "serverName": "inviteplan-shadowplayz09",
+    "suspendAt": 1791213396573,
+    "isSuspended": false
+  },
+  "closedTickets": {
+    "1553691969564184596": {
+      "closedAt": 1790503049298,
+      "channelId": "1553691969564184596",
+      "closedBy": "insane.exeee"
+    },
+    "1553710740911820870": {
+      "closedAt": 1790571746889,
+      "channelId": "1553710740911820870",
+      "closedBy": "insane.exeee"
+    },
+    "1553797526241411113": {
+      "closedAt": 1790526770140,
+      "channelId": "1553797526241411113",
+      "closedBy": "realflukz"
+    },
+    "1553275317307703359": {
+      "closedAt": 1790590459955,
+      "channelId": "1553275317307703359",
+      "closedBy": "realflukz"
+    },
+    "1554109433401974906": {
+      "closedAt": 1790599498449,
+      "channelId": "1554109433401974906",
+      "closedBy": "anshu_0004"
+    },
+    "1554126452545425459": {
+      "closedAt": 1790605798445,
+      "channelId": "1554126452545425459",
+      "closedBy": "ashansenpai"
+    },
+    "1553983427919749141": {
+      "closedAt": 1790608120775,
+      "channelId": "1553983427919749141",
+      "closedBy": "insane.exeee"
+    }
+  },
+  "statusMsgId": "1547595165143793797"
+}
